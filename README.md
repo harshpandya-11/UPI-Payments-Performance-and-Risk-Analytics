@@ -201,7 +201,3 @@ MBA Finance | Financial Analyst | Power BI Developer | SAP FICO Trainee
 🔗 LinkedIn: www.linkedin.com/in/harsh-pandya-sap-fico
 
 ---
-
-# ⭐ If you found this project helpful, please consider giving it a star!
-
-Thank you for visiting this repository.
