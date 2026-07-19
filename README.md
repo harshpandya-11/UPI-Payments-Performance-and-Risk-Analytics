@@ -26,7 +26,7 @@ The objective of this project is to:
 
 # 📊 Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](https://github.com/harshpandya-11/UPI-Payments-Performance-and-Risk-Analytics/blob/main/UPI%20Transactions%20Dashboard.png)
 
 ---
 
@@ -198,7 +198,7 @@ MBA Finance | Financial Analyst | Power BI Developer | SAP FICO Trainee
 
 📧 Email: harshpandya2405@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+🔗 LinkedIn: www.linkedin.com/in/harsh-pandya-sap-fico
 
 ---
 
